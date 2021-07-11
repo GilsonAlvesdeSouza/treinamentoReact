@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .integracao1 .vermelho {
+  color: red;
+  font-size: 50px;
+  background-color: black;
+  margin: 10px;
+}
+
+.integracao1 .azul {
+  color: blue;
+  font-size: 50px;
+  background-color: black;
+  margin: 10px;
+}
+
+.integracao1 .verde {
+  color: green;
+  font-size: 50px;
+  background-color: black;
+  margin: 10px;
+}
+
+.integracao1 .Preto {
+  color: black;
+  font-size: 50px;
+  background-color: rgb(148, 109, 109);
+  margin: 10px;
+}
+
+.integracao1 .Branco {
+    font-size: 50px;   
+    color: white;
+    background-color: black;
+    margin: 10px;
+}
+
+.integracao1 .Marron {
+  color: brown;
+  font-size: 50px;
+  background-color: black;
+  margin: 10px;
+}
+
+.integracao1 .Rosa {
+  color: pink;
+  font-size: 50px;
+  background-color: black;
+  margin: 10px;
+}
